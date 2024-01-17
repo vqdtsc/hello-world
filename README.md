@@ -1,3 +1,7 @@
 # hello-world
+A short description, a bit about yourself.
 
-A short description.
+* this is a bullet
+* another bullet
+
+**bold**
